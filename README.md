@@ -2,7 +2,7 @@
 
 Deployment script that allow you to deploy FortiGate, FortiManager, FortiAnalyzer, FortiSandbox, FortiAuthenticator and Latest Windows Server 2022 and Ubunutu
 
-To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Environment_3B)
+To use this module Please go to (https://github.com/waleedrady/AWS_Fortinet_DataCenter_Lab)
 
 Terraform Module that will create the AWS Networking Stack for FGT, Apache Server, Windows Server and utilize AWS Route53 for DNS.
 
