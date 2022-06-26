@@ -9,7 +9,7 @@ Terraform Module that will create the AWS Networking Stack for FGT, Apache Serve
 
 The module will create the below resources:
 
-- 8 x VPCs for Three Hubs and 4 Spoke Topology.
+- 8 x VPCs for Three Hubs and 4 Spokes Topology.
 - Networking Stack (VPC, Subnets, Route Tables, Security Groups, Internet Gateway and NAT Gateway[for FortiSandbox])
 - 7 x FortiGate with 3 interfaces (Two Interfaces in two different Public Subnets [for SD-WAN testing] and one in the Private subnets)
 - FortiManager       - [Behind Hub 1 LAN]
